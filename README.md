@@ -13,3 +13,14 @@ Homework for DeepNLP 2024
   * data/
     * 语料库、停用词列表等数据文件
 
+## 第二次作业
+
+* hw2
+
+  * requirements.txt
+    * Python包依赖列表
+  * LDAClassfication.py
+    * 小说分类实验脚本
+
+  * data/
+    * 语料库、停用词列表等数据文件
