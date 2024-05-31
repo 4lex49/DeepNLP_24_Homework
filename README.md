@@ -24,3 +24,17 @@ Homework for DeepNLP 2024
 
   * data/
     * 语料库、停用词列表等数据文件
+
+## 第三次作业
+
+* hw3
+
+  * requirements.txt
+    * Python包依赖列表
+  * WordVectorize.py
+    * 词向量实验脚本
+
+  * data/
+    * 语料库、停用词列表等数据文件
+  * res/
+    * 图片、模型目录
